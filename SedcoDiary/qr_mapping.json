@@ -1,0 +1,13 @@
+{
+    "qr_codes": [
+        {
+            "id": 1,
+            "path": "/assets/qr/qrsedco.png"
+        },
+        {
+            "id": 2,
+            "path": "/assets/qr/qrsudc.png"
+        }
+        
+    ]
+}
